@@ -1,4 +1,4 @@
-## Hi, my name is Sumedha Chanduri
+## Hello, my name is Sumedha Chanduri
 
 I am currently a freshman majoring in Computer Science at UNC Charlotte,
 and I plan to transfer to NC State.
